@@ -1,4 +1,4 @@
-# GPT & LangChain - Create a ChatGPT Chatbot for Twitter's The Algorithm ML Repo
+# GPT & LangChain - Create a ChatGPT Chatbot for Twitter's The Algorithm Repo
 
 Use the new GPT-3.5 api to build a chatGPT chatbot The Algorithm ML Repo.
 
