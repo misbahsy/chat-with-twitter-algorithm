@@ -14,7 +14,7 @@ export const run = async () => {
 
     // load the markdown files of the algorithm repo by twitter
     const loader = new GithubRepoLoader(
-      "https://github.com/misbahsy/the-algorithm-ml-gpt",
+      "https://github.com/misbahsy/the-algorithm-gpt",
       { branch: "main", recursive: true, unknown: "warn" }
     );
     const rawDocs = await loader.load();
